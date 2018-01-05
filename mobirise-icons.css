@@ -1,7 +1,7 @@
 @font-face {
   font-family: 'MobiriseIcons';
-  src:  url('https://rawgit.com/Mobirise/Mobirise/master/mobirise-3-free-template/app-showcase-demo/assets/web/assets/mobirise-icons/mobirise-icons.eot?spat4u');
-  src:  url('https://rawgit.com/Mobirise/Mobirise/master/mobirise-3-free-template/app-showcase-demo/assets/web/assets/mobirise-icons/mobirise-icons.eot?spat4u#iefix') format('embedded-opentype'),
+  src:  url('mobirise-icons.eot?spat4u');
+  src:  url('mobirise-icons.eot?spat4u#iefix') format('embedded-opentype'),
     url('mobirise-icons.ttf?spat4u') format('truetype'),
     url('mobirise-icons.woff?spat4u') format('woff'),
     url('mobirise-icons.svg?spat4u#MobiriseIcons') format('svg');
